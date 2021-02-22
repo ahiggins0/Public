@@ -1,0 +1,1 @@
+docker run --name discordbot --net=host -d discordbot
